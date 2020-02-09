@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FreshMarket</string>
+    <string name="fm">fm</string>
+    <string name="about">FreshMarket is a mobile platform for delivery of fresh groceries , fruits &amp; vegetables Choose products on our mobile app , and get everything delivered to your doorstep, quickly</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+</resources>
